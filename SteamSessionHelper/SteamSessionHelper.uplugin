@@ -1,0 +1,20 @@
+{
+  "FileVersion": 1,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Steam Session Helper",
+  "Description": "Blueprint nodes for creating, finding, and joining Steam sessions.",
+  "Category": "Online",
+  "CreatedBy": "Sheikh Sohel Moon",
+  "CreatedByURL": "https://iamsohel.xyz",
+  "EngineVersion": "5.5.0",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    {
+      "Name": "SteamSessionHelper",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
