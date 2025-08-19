@@ -1,6 +1,6 @@
 # UE5.5-SteamSessionHelper
 
-Blueprint-friendly fix for Steam hosting/joining issues in Unreal Engine 5.5+.  
+Blueprint-friendly fix for Steam hosting/joining issues in Unreal Engine 5.5.  
 This plugin wraps the Steam Online Subsystem (OSS) with async Blueprint nodes and applies fixes for common UE5.5 Steam SDK session problems that affect indie developers.
 
 ---
