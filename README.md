@@ -51,7 +51,7 @@ Blueprint nodes (category: **Steam | Session**):
 - **Join Steam Session**  
 
 Example:  
-![Blueprint Example](blueprint_example.png)  
+![Docs/Blueprint Example](Docs/blueprint_example.png)  
 
 ---
 
